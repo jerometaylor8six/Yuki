@@ -2555,7 +2555,7 @@ https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha.m3u8
 #EXTINF:-1 tvg-id="RBB.de" tvg-name="RBB DE" tvg-logo="https://picserve.netplus.ch/channels/rbb.png" group-title="GermanyComprehensive",RBB DE
 https://viamotionhsi.netplus.ch/live/eds/rbb/browser-HLS8/rbb.m3u8
 
-# --- 🇨🇭 瑞士 (Switzerland) ---
+# --- 🇨🇭 Switzerland ---
 
 #EXTINF:-1 tvg-id="RTS.1.ch" tvg-name="RTS 1 CH" tvg-logo="https://picserve.netplus.ch/channels/rts1hd.png" group-title="瑞士Comprehensive",RTS 1 CH
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
