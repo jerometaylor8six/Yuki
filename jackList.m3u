@@ -1361,13 +1361,38 @@ http://122.53.138.32:8000/dwbr.mp3
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 
+----------------NBA---------
 
 
+#EXTINF:-1 group-title="NBA" tvg-logo="",Indiana Pacers vs Charlotte Hornets (APR 03 @ 04:00 PM PST)
+https://7bb.tlfiles.cfd/live/pacers/stream.m3u8
 
+#EXTINF:-1 group-title="NBA" tvg-logo="https://api.ppv.to/assets/thumb/b2a3b329188fb0d8f77f01636ad6332c-thumbnail.jpg",Minnesota Timberwolves vs Philadelphia 76ers (APR 03 @ 04:00 PM PST)
+https://7bb.tlfiles.cfd/live/76ers/stream.m3u8
 
+#EXTINF:-1 group-title="NBA" tvg-logo="https://api.ppv.to/assets/thumb/94e704acfb023e67701fb5aa4601aa12-thumbnail.jpg",Chicago Bulls vs New York Knicks (APR 03 @ 04:30 PM PST)
+https://8bb.tlfiles.cfd/live/knicks/stream.m3u8
 
+#EXTINF:-1 group-title="NBA" tvg-logo="",Atlanta Hawks vs Brooklyn Nets (APR 03 @ 04:30 PM PST)
+https://7bb.tlfiles.cfd/live/nets/stream.m3u8
 
+#EXTINF:-1 group-title="MLB" tvg-logo="https://api.ppv.to/assets/thumb/13fae5d1725afe29e16124602d66479f-thumbnail.jpg",Milwaukee Brewers vs Kansas City Royals (APR 03 @ 04:45 PM PST)
+https://4bb.tlfiles.cfd/live/brewers/stream.m3u8
 
+#EXTINF:-1 group-title="NBA" tvg-logo="",Boston Celtics vs Milwaukee Bucks (APR 03 @ 05:00 PM PST)
+https://8bb.tlfiles.cfd/live/bucks/stream.m3u8
+
+#EXTINF:-1 group-title="NBA" tvg-logo="",Toronto Raptors vs Memphis Grizzlies (APR 03 @ 05:00 PM PST)
+https://8bb.tlfiles.cfd/live/raptors/stream.m3u8
+
+#EXTINF:-1 group-title="NBA" tvg-logo="",Utah Jazz vs Houston Rockets (APR 03 @ 05:00 PM PST)
+https://9bb.tlfiles.cfd/live/jazz/stream.m3u8
+
+#EXTINF:-1 group-title="NBA" tvg-logo="",Orlando Magic vs Dallas Mavericks (APR 03 @ 05:30 PM PST)
+https://9bb.tlfiles.cfd/live/magic/stream.m3u8
+
+#EXTINF:-1 group-title="NBA" tvg-logo="",New Orleans Pelicans vs Sacramento Kings (APR 03 @ 07:00 PM PST)
+https://7bb.tlfiles.cfd/live/kings/stream.m3u8
 
 
 
