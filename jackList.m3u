@@ -2895,4 +2895,36 @@ https://d21vn5eki5qsdi.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62bdb1c5e25122000798ac79/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=b8fb8c6b-1754-410b-abca-a171a0856bae&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=7c2ba347-9595-4220-bc93-e6fa332f5128&userId=&serverSideAds=true
 
 
+------========check=======
 
+#EXTINF:-1 tvg-id="XITE 90s Throwback" tvg-logo="https://tvpnlogopus.samsungcloud.tv...02/34/USBB3200007AK_20250421T234926SQUARE.png" group-title="Music",XITE 90s Throwback
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://jmp2.uk/stvp-USBB3200007AK
+
+#EXTINF:-1 tvg-id="XITE Celebrates" tvg-logo="https://tvpnlogopus.samsungcloud.tv...02/34/USBD350003932_20250421T234928SQUARE.png" group-title="Music",XITE Celebrates
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://jmp2.uk/stvp-USBD350003932
+
+#EXTINF:-1 tvg-id="XITE Classic Country" tvg-logo="https://tvpnlogopus.samsungcloud.tv...02/34/USBD3300011UT_20240716T002641SQUARE.png" group-title="Music",XITE Classic Country
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://jmp2.uk/stvp-USBD3300011UT
+
+#EXTINF:-1 tvg-id="XITE Country Today" tvg-logo="https://tvpnlogopus.samsungcloud.tv...02/34/USBD3300006O3_20240716T002639SQUARE.png" group-title="Music",XITE Country Today
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://jmp2.uk/stvp-USBD3300006O3
+
+#EXTINF:-1 tvg-id="XITE Hits" tvg-logo="https://tvpnlogopus.samsungcloud.tv...02/34/USBD3300004RH_20250421T234930SQUARE.png" group-title="Music",XITE Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://jmp2.uk/stvp-USBD3300004RH
+
+#EXTINF:-1 tvg-id="XITE Just Chill" tvg-logo="https://tvpnlogopus.samsungcloud.tv...02/34/USBB2300003JZ_20240716T002652SQUARE.png" group-title="Music",XITE Just Chill
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://jmp2.uk/stvp-USBB2300003JZ
+
+#EXTINF:-1 tvg-id="XITE R&B Classic Jams" tvg-logo="https://tvpnlogopus.samsungcloud.tv...02/34/USBD330000948_20240716T002648SQUARE.png" group-title="Music",XITE R&B Classic Jams
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://jmp2.uk/stvp-USBD330000948
+
+#EXTINF:-1 tvg-id="XITE Rock x Metal" tvg-logo="https://tvpnlogopus.samsungcloud.tv...02/34/USBB2300004KV_20240716T002654SQUARE.png" group-title="Music",XITE Rock x Metal
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://jmp2.uk/stvp-USBB2300004KV
